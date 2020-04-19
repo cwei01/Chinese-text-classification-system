@@ -1,0 +1,3 @@
+function handleGet() {
+	alert('test')
+}
